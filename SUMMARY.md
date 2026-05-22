@@ -10,8 +10,7 @@
 ## 二、新手入门
 
 * [📘 新手入门说明](getting-started/README.md)
-  * [🔐 账号与安全](getting-started/hubs/账号与安全.md)
-    * [注册与登录](getting-started/auth.md)
+  * [🔐 注册与登录](getting-started/auth.md)
   * [🎮 界面与资源](getting-started/hubs/界面与资源.md)
     * [主菜单指南](getting-started/主菜单.md)
     * [资源包](getting-started/资源包.md)
@@ -58,8 +57,9 @@
 ## 五、经济系统
 
 * [💎 经济系统说明](economy/README.md)
-  * [货币体系](economy/hubs/货币体系.md)
-    * [货币说明](economy/currencies.md)
+* [💰 货币说明](economy/currencies.md)
+* [🪙 如何获得金币](economy/如何获得金币.md)
+* [💸 消费与转账](economy/消费与转账.md)
 
 ## 六、会员权益
 
@@ -73,10 +73,12 @@
 
 ## 七、点券与充值
 
-* [🎫 点券充值说明](donation/README.md)
-  * [赞助指南](donation/hubs/赞助指南.md)
-    * [点券说明](donation/points.md)
-    * [充值与支付步骤](donation/充值与支付.md)
+* [🎫 赞助指南](donation/hubs/赞助指南.md)
+  * [点券说明](donation/points.md)
+  * [充值与支付步骤](donation/充值与支付.md)
+  * [点券用途一览](donation/点券用途.md)
+  * [充值常见问题](donation/常见问题.md)
+  * [会员与点券区别](donation/会员与点券区别.md)
 
 ## 八、规则与条例
 

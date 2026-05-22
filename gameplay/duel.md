@@ -2,42 +2,40 @@
 title: 单挑排位
 ---
 
-<!-- gitbook-hint -->
-{% hint style="success" %}
-**快速入口**：/dantiao start
-{% endhint %}
-
-
 # ⚔️ 单挑排位
 
-## 📖 简介
+{% hint style="success" %}
+**Dantiao**：`/cd2` → 排位赛，或 `/dantiao start` 开始匹配。
+{% endhint %}
 
-Dantiao 1v1 全服匹配，公平切磋实力。
+## 👤 适合谁
 
-**Dantiao / Fair-DanTiao** 提供玩家间 1v1 单挑匹配。
+想公平 1v1 切磋、练习 PVP 的玩家。
 
-**打开方式**：主菜单 `/cd2` → **排位赛**
+## 打开方式
 
-```
-/dantiao start
-```
+| 方式 | 操作 |
+|------|------|
+| 主菜单 | `/cd2` → **排位赛**（TrMenu：`dantiao start`） |
+| 命令 | `/dantiao start` |
 
 > **[待补图 IMG-026]** 单挑匹配或竞技场界面
 
 ## 规则提示
 
-- 匹配全服玩家，请公平对战  
-- 禁止利用漏洞、药剂外挂等，见 [服务器守则](../rules/服务器守则.md)  
-- 纠纷可在 QQ 群 **518445497** 提供录像申诉
+- 全服匹配，请公平对战  
+- 禁止漏洞、作弊（服内使用 **Vulcan** 等反作弊）  
+- 纠纷可提供录像至 QQ 群 **518445497**
+
 ---
 <!-- gitbook-nav -->
 
 ## 本章导航
 
 - 返回导览：[战斗与探索](hubs/战斗与探索.md)
-- 上一篇：[shops](shops.md)
-- 下一篇：[graves](graves.md)
+- 上一篇：[系统商店](shops.md)
+- 下一篇：[死亡墓碑](graves.md)
 
 ---
 
-客服 QQ 群：**518445497** · [赞助与消费条例](../legal/赞助条例.md)
+客服 QQ 群：**518445497**

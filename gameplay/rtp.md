@@ -2,44 +2,49 @@
 title: 随机传送
 ---
 
-<!-- gitbook-hint -->
-{% hint style="success" %}
-**快速入口**：世界旅行 → 生存/资源
-{% endhint %}
-
-
 # 🎲 随机传送
 
-## 📖 简介
-
-BetterRTP 随机落点至野外，SVIP 可绕过冷却。
-
-{% hint style="info" %}
-💡 **小贴士**：落点可能危险，带好装备。
+{% hint style="warning" %}
+**BetterRTP**：落点随机，可能遇到洞穴、岩浆等危险，请备好装备。
 {% endhint %}
 
-**BetterRTP** 用于生存大陆、资源世界等野外随机落点。
+## 👤 适合谁
 
-## 使用场景
+想快速到生存/资源/活动世界野外探索的玩家。
 
-- 主菜单 → 世界旅行 → 进入生存/资源世界（内部调用 `betterrtp world <世界名>`）  
-- 部分会员可 **绕过 RTP 冷却**（SVIP 菜单说明）  
+## 打开方式
 
-> **[待补图 IMG-033]** 随机传送成功时的 Title 提示（安途）
+主菜单 `/cd` → **世界旅行** → 选择世界（内部命令示例）：
+
+| 菜单项 | 命令 |
+|--------|------|
+| 进入生存大陆 | `betterrtp world world_survival` |
+| 进入资源世界 | `betterrtp world world_resource` |
+| 进入活动世界 | `betterrtp world world_activity` |
+
+详见 [世界旅行](../worlds/teleport.md)。
+
+> **[待补图 IMG-033]** 随机传送成功提示
+
+## 经济与冷却
+
+- `BetterRTP/economy.yml` 中 **全局收费 Enabled: false**（默认不扣金币）  
+- **Respect Residence: true** — 不会传送到他人领地内  
+- SVIP 会员菜单 lore 写明 **「RTP 绕过冷却」**（具体冷却秒数以游戏内为准）
 
 ## 提示
 
-- 落点可能危险（洞穴、岩浆），请备好装备  
-- 资源世界会重置，勿长期把重要物资只放在资源世界
+- [资源世界](../worlds/teleport.md) 会按公告周期重置，勿只囤在资源世界
+
 ---
 <!-- gitbook-nav -->
 
 ## 本章导航
 
 - 返回导览：[战斗与探索](hubs/战斗与探索.md)
-- 上一篇：[graves](graves.md)
-- 下一篇：[slimefun](slimefun.md)
+- 上一篇：[死亡墓碑](graves.md)
+- 下一篇：[粘液科技](slimefun.md)
 
 ---
 
-客服 QQ 群：**518445497** · [赞助与消费条例](../legal/赞助条例.md)
+客服 QQ 群：**518445497**

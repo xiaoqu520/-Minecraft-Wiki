@@ -2,44 +2,46 @@
 title: 好友系统
 ---
 
-<!-- gitbook-hint -->
-{% hint style="success" %}
-**快速入口**：/hyronicfriends
-{% endhint %}
-
-
 # 👫 好友系统
 
-## 📖 简介
+{% hint style="success" %}
+**HyronicFriends**：主菜单 → 好友系统，或命令 `hyronicfriends`。
+{% endhint %}
 
-添加好友，方便组队与社交。
+## 👤 适合谁
 
-**HyronicFriends** 提供好友列表、添加与删除。
+希望长期一起玩、方便社交与组队的玩家。
 
-**打开方式**：主菜单 `/cd` → **好友系统**
+## 打开方式
 
-```
-/hyronicfriends
-```
+| 方式 | 操作 |
+|------|------|
+| 主菜单 | `/cd` → **好友系统** |
+| 命令 | `hyronicfriends`（TrMenu 绑定） |
 
 > **[待补图 IMG-019]** 好友列表界面
 
 ## 功能
 
-- 添加好友  
+- 添加 / 删除好友  
 - 查看好友列表  
-- 删除好友  
+- 数据存于服务端数据库（配置为 MySQL），同一游戏 ID 换设备仍保留  
 
-数据存储在服务端，换设备登录同一游戏 ID 仍保留。
+具体子命令以游戏内帮助为准。
+
+## 相关
+
+- [公会系统](guild.md) · [结婚系统](marriage.md)
+
 ---
 <!-- gitbook-nav -->
 
 ## 本章导航
 
 - 返回导览：[社交与公会](hubs/社交与公会.md)
-- 上一篇：[codex](codex.md)
-- 下一篇：[marriage](marriage.md)
+- 上一篇：[图鉴系统](codex.md)
+- 下一篇：[结婚系统](marriage.md)
 
 ---
 
-客服 QQ 群：**518445497** · [赞助与消费条例](../legal/赞助条例.md)
+客服 QQ 群：**518445497**

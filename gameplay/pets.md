@@ -3,25 +3,20 @@ title: 宠物系统
 description: CompanionsPlus 战斗宠物与点券专售
 ---
 
-<!-- gitbook-hint -->
-{% hint style="success" %}
-**快速入口**：`/cpp shop` 商店 · `/companionsplus open` 仓库 · 主菜单 → 商城 → 宠物召唤
-{% endhint %}
-
 # 🐾 宠物系统
 
-## 📖 简介
-
-**CompanionsPlus** 提供战斗辅助宠物，陪伴探索与战斗。部分 **传说档** 支持点券专售（安途舰长、星航巨鲸等），是长期玩家的收藏向内容。
-
-## ✨ 你能获得
-
-- 战斗被动加成与随行特效  
-- 多主题宠物线：海港、主世界、下界、点券传说  
-
-{% hint style="info" %}
-💡 **小贴士**：先 [充值点券](../../donation/points.md) 再购买点券档宠物；仓库与商店命令见上。
+{% hint style="success" %}
+**CompanionsPlus**：`/cpp shop` 购买 · `/companionsplus open` 仓库 · 主菜单商城 → 宠物召唤。
 {% endhint %}
+
+## 👤 适合谁
+
+想要战斗随从、愿意用金币或 [点券](../donation/points.md) 购买收藏向宠物的玩家。
+
+## 你能获得
+
+- 战斗辅助与随行效果（以各宠物配置为准）  
+- 多档位宠物线（见下表概览）
 
 ## 🎮 常用命令
 

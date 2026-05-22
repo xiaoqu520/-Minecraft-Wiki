@@ -2,23 +2,17 @@
 title: 称号系统
 ---
 
-<!-- gitbook-hint -->
-{% hint style="success" %}
-**快速入口**：/plt open · /plt shop
-{% endhint %}
-
-
 # 🏷️ 称号系统
 
-## 📖 简介
+{% hint style="success" %}
+**PlayerTitle**：`/plt open` 仓库 · `/plt shop` 商城；主菜单功能菜单 / `/cd2` 均可进入。
+{% endhint %}
 
-称号展示于 TAB 与聊天，部分需金币/点券购买。
+## 👤 适合谁
 
-## ✨ 你能获得
+想展示个性、用金币或点券购买炫酷称号的玩家。
 
-- 彰显身份与成就。
-
-**PlayerTitle** 提供称号展示、仓库与商城。称号可显示在 TAB、聊天等位置（占位符 `%playerTitle_use%`）。
+**PlayerTitle** 提供称号展示、仓库与商城（占位符 `%playerTitle_use%` 用于 TAB、聊天等）。
 
 | 命令 | 说明 |
 |------|------|

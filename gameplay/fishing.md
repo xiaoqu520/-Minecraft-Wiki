@@ -2,46 +2,53 @@
 title: 钓鱼玩法
 ---
 
-<!-- gitbook-hint -->
-{% hint style="success" %}
-**快速入口**：PyroFishingPro
-{% endhint %}
-
-
 # 🎣 钓鱼玩法
 
-## 📖 简介
+{% hint style="success" %}
+**PyroFishingPro** 增强钓鱼；每月首周 CMI 广播 **海风钓鱼季**，提示 `/fish menu`。
+{% endhint %}
 
-PyroFishingPro 超越原版钓鱼，海风钓鱼季有额外活动。
+## 👤 适合谁
 
-安途提供 **PyroFishingPro** 增强钓鱼，区别于原版钓鱼机制。
+喜欢收集鱼种、参与限时钓鱼活动的玩家。
 
-> **[待补图 IMG-025]** 钓鱼玩法界面或特殊鱼获展示
+## 打开方式
 
-## 海风钓鱼季（活动）
+以游戏内引导为准；活动广播示例：
 
-服内 CMI 日程含 **海风钓鱼季**（每月首周等），期间可能有额外奖励或公告，请关注：
+```
+/fish menu
+```
 
-- 游戏内广播  
-- QQ 群 **518445497**  
+（见 CMI `Schedules.yml` → `安途_海风钓鱼季_每月首周`）
+
+> **[待补图 IMG-025]** 钓鱼界面或特殊鱼获
+
+## 海风钓鱼季
+
+| 项目 | 说明 |
+|------|------|
+| 触发 | CMI 日程 **每月首周**（具体日以 `Schedules.yml` 为准） |
+| 广播文案 | 提示本周钓鱼挑战、`/fish menu` 查看图鉴与奖励 |
 
 ## 相关
 
 - [每日任务](每日任务.md) 含钓鱼类任务  
-- [粘液科技](slimefun.md) 中 Gastronomicon 等可与食材、烹饪联动  
+- [粘液科技](slimefun.md)（Gastronomicon 等烹饪扩展）
 
 ## 提示
 
-- 自动钓鱼机、宏等若违反反作弊将被处理（**Vulcan** 等）
+- 自动钓鱼、宏等若触发反作弊将被处理
+
 ---
 <!-- gitbook-nav -->
 
 ## 本章导航
 
 - 返回导览：[战斗与探索](hubs/战斗与探索.md)
-- 上一篇：[slimefun](slimefun.md)
-- 下一篇：[crates](crates.md)
+- 上一篇：[粘液科技](slimefun.md)
+- 下一篇：[宝箱抽奖](crates.md)
 
 ---
 
-客服 QQ 群：**518445497** · [赞助与消费条例](../legal/赞助条例.md)
+客服 QQ 群：**518445497**
