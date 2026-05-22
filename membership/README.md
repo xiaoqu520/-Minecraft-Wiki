@@ -3,11 +3,15 @@ title: 会员权益
 description: VIP / SVIP / MVP 限时会员
 ---
 
-# 会员权益
+# 👑 会员权益
 
 {% hint style="warning" %}
 **限时会员**：月卡 30 天 / 季卡 90 天，LuckPerms 临时组 **到期自动收回**，非永久 Rank。充值前请阅读 [赞助与消费条例](../legal/赞助条例.md)。
 {% endhint %}
+
+## 📖 简介
+
+VIP / SVIP / MVP 为 **限时会员**，到期自动收回。
 
 ## 本章文档
 

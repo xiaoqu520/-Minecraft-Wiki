@@ -2,7 +2,17 @@
 title: 钓鱼玩法
 ---
 
-# 钓鱼玩法
+<!-- gitbook-hint -->
+{% hint style="success" %}
+**快速入口**：PyroFishingPro
+{% endhint %}
+
+
+# 🎣 钓鱼玩法
+
+## 📖 简介
+
+PyroFishingPro 超越原版钓鱼，海风钓鱼季有额外活动。
 
 安途提供 **PyroFishingPro** 增强钓鱼，区别于原版钓鱼机制。
 
@@ -22,4 +32,16 @@ title: 钓鱼玩法
 
 ## 提示
 
-- 自动钓鱼机、宏等若违反反作弊将被处理（**Vulcan** 等）  
+- 自动钓鱼机、宏等若违反反作弊将被处理（**Vulcan** 等）
+---
+<!-- gitbook-nav -->
+
+## 本章导航
+
+- 返回导览：[战斗与探索](hubs/战斗与探索.md)
+- 上一篇：[slimefun](slimefun.md)
+- 下一篇：[crates](crates.md)
+
+---
+
+客服 QQ 群：**518445497** · [赞助与消费条例](../legal/赞助条例.md)

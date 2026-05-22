@@ -1,51 +1,37 @@
 ---
-title: 玩法百科
+title: 玩法系统总览
+description: 日常、社交、交易、探索与娱乐
 ---
 
-# 玩法百科
+# ⚔️ 玩法系统总览
 
-本章介绍安途各玩法模块的入口、用途与相关经济/会员加成。建议配合 [主菜单指南](../getting-started/主菜单.md) 使用。
+{% hint style="success" %}
+🎮 主入口：输入 **`/cd`** 与 **`/cd2`** 打开安途主菜单。
+{% endhint %}
 
-## 社交与生活
+## 📖 简介
 
-| 文档 | 入口 |
+安途玩法按 **五大类** 组织，侧栏可展开至具体文档（3～4 级）。点击下方 **导览页** 进入子类，再选详细玩法。
+
+## 🗂️ 五大分类
+
+| 分类 | 导览 | 包含 |
+|------|------|------|
+| 📅 **日常与成长** | [进入](hubs/日常与成长.md) | 签到 · 任务 · 称号 · 图鉴 · 宠物 |
+| 👥 **社交与公会** | [进入](hubs/社交与公会.md) | 好友 · 结婚 · 公会 · 地标 |
+| 💰 **经济与交易** | [进入](hubs/经济与交易.md) | 领地 · 市场 · 商店 |
+| 🗡️ **战斗与探索** | [进入](hubs/战斗与探索.md) | 单挑 · 墓碑 · RTP · 粘液 · 钓鱼 |
+| 🎡 **娱乐活动** | [进入](hubs/娱乐活动.md) | 宝箱 · 红包 · 赌场 · 小游戏 |
+
+## 相关章节
+
+| 章节 | 链接 |
 |------|------|
-| [领地系统](residence.md) | 主菜单 → 领地 |
-| [好友系统](friends.md) | 主菜单 → 好友 |
-| [结婚系统](marriage.md) | `/cd2` → 结婚 |
-| [公会系统](guild.md) | 主菜单 → 公会 |
-| [玩家地标](landmarks.md) | 主菜单 → 世界地标 |
+| 💎 经济 | [货币说明](../economy/currencies.md) |
+| 👑 会员 | [会员总览](../membership/overview.md) |
+| 🗺️ 世界 | [世界旅行](../worlds/teleport.md) |
 
-## 成长与收集
+## 本章导航
 
-| 文档 | 入口 |
-|------|------|
-| [每日签到](每日签到.md) | `/cd2` → 签到 |
-| [每日任务](每日任务.md) | `/plk open` |
-| [称号系统](titles.md) | `/plt open` / `/plt shop` |
-| [宠物系统](pets.md) | `/cpp shop`、`companionsplus open` |
-| [图鉴系统](codex.md) | `/codex` |
-
-## 经济与交易
-
-| 文档 | 入口 |
-|------|------|
-| [全球市场](market.md) | `market gui` |
-| [系统商店](shops.md) | `/shopgui` |
-| [粘液科技](slimefun.md) | 科技线与星际探索 |
-
-## 战斗与娱乐
-
-| 文档 | 入口 |
-|------|------|
-| [单挑排位](duel.md) | `/dantiao start` |
-| [死亡墓碑](graves.md) | `grave gui` |
-| [随机传送](rtp.md) | BetterRTP |
-| [宝箱抽奖](crates.md) | 城内抽奖区 |
-| [红包系统](红包.md) | `/hb` |
-| [赌场](casino.md) | Vegas（SVIP 全开） |
-| [大堂小游戏](minigames.md) | PocketGames / LobbyGames |
-| [钓鱼玩法](fishing.md) | PyroFishingPro |
-| [组队系统](team.md) | 组队菜单（部分制作中） |
-
-经济货币说明见 [经济系统](../economy/README.md)。
+- 上一章：[世界与地图](../worlds/README.md)
+- 下一章：[经济系统](../economy/README.md)

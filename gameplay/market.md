@@ -2,7 +2,17 @@
 title: 全球市场
 ---
 
-# 全球市场
+<!-- gitbook-hint -->
+{% hint style="success" %}
+**快速入口**：/market gui
+{% endhint %}
+
+
+# 🛒 全球市场
+
+## 📖 简介
+
+QuickShop 全球市场，浏览全服玩家上架商品。
 
 **QuickShop-Hikari** 提供玩家间物品交易：上架、购买、邮箱取货。
 
@@ -29,3 +39,15 @@ title: 全球市场
 ## 会员加成
 
 VIP/SVIP/MVP 享有 **出售加成** 与 **购买折扣**（商店系统），全球市场以 QuickShop 规则为准，具体折扣见 [会员总览](../membership/overview.md)。
+---
+<!-- gitbook-nav -->
+
+## 本章导航
+
+- 返回导览：[经济与交易](hubs/经济与交易.md)
+- 上一篇：[residence](residence.md)
+- 下一篇：[shops](shops.md)
+
+---
+
+客服 QQ 群：**518445497** · [赞助与消费条例](../legal/赞助条例.md)

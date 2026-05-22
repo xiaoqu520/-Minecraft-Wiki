@@ -2,7 +2,21 @@
 title: 赌场
 ---
 
-# 赌场
+<!-- gitbook-hint -->
+{% hint style="success" %}
+**快速入口**：SVIP 赌场
+{% endhint %}
+
+
+# 🎰 赌场
+
+## 📖 简介
+
+Vegas 赌场小游戏，**SVIP 及以上** 赌场全开。
+
+{% hint style="info" %}
+💡 **小贴士**：适度娱乐，勿沉迷。
+{% endhint %}
 
 **Vegas** 插件提供赌场类小游戏（老虎机、轮盘等，以服内实际游戏为准）。
 
@@ -23,3 +37,15 @@ title: 赌场
 
 - [SVIP 权益](../membership/svip.md)  
 - 客服 QQ 群：**518445497**
+---
+<!-- gitbook-nav -->
+
+## 本章导航
+
+- 返回导览：[娱乐活动](hubs/娱乐活动.md)
+- 上一篇：[红包](红包.md)
+- 下一篇：[minigames](minigames.md)
+
+---
+
+客服 QQ 群：**518445497** · [赞助与消费条例](../legal/赞助条例.md)

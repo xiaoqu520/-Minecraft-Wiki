@@ -2,7 +2,17 @@
 title: 系统商店
 ---
 
-# 系统商店
+<!-- gitbook-hint -->
+{% hint style="success" %}
+**快速入口**：/shopgui
+{% endhint %}
+
+
+# 🏪 系统商店
+
+## 📖 简介
+
+ShopGUIPlus 官方商店，会员享折扣与出售加成。
 
 **ShopGUIPlus** 提供服务器官方商店，出售/收购各类物品。
 
@@ -27,4 +37,16 @@ title: 系统商店
 ## 提示
 
 - 刷物品、利用商店漏洞将被封禁  
-- 也可使用 [全球市场](market.md) 与其他玩家交易  
+- 也可使用 [全球市场](market.md) 与其他玩家交易
+---
+<!-- gitbook-nav -->
+
+## 本章导航
+
+- 返回导览：[经济与交易](hubs/经济与交易.md)
+- 上一篇：[market](market.md)
+- 下一篇：[duel](duel.md)
+
+---
+
+客服 QQ 群：**518445497** · [赞助与消费条例](../legal/赞助条例.md)
