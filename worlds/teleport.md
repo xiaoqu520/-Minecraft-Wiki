@@ -2,6 +2,11 @@
 title: 世界旅行与传送
 ---
 
+<!-- gitbook-hint -->
+{% hint style="success" %}
+**快速入口**：主菜单 → 世界旅行
+{% endhint %}
+
 # 世界旅行与传送
 
 **打开方式**：主菜单 `/cd` → **世界旅行**
@@ -39,4 +44,16 @@ title: 世界旅行与传送
 ## 相关文档
 
 - [家园系统](homes.md)  
-- [领地系统](../gameplay/residence.md) — 在生存世界圈地保护  
+- [领地系统](../gameplay/residence.md) — 在生存世界圈地保护
+---
+<!-- gitbook-nav -->
+
+## 本章导航
+
+- 返回导览：[README](README.md)
+- 上一篇：[世界与地图说明](README.md)
+- 下一篇：[家园系统](homes.md)
+
+---
+
+客服 QQ 群：**518445497** · [赞助与消费条例](../legal/赞助条例.md)

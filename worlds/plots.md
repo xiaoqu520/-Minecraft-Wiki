@@ -2,6 +2,11 @@
 title: 地皮系统
 ---
 
+<!-- gitbook-hint -->
+{% hint style="success" %}
+**快速入口**：主菜单 → 进入地皮
+{% endhint %}
+
 # 地皮系统
 
 地皮（Plot）为 **PlotSquared** 提供的独立建造区域，与 **领地（Residence）** 不同：地皮适合规整分区建家，领地适合在生存世界自由圈地。
@@ -32,3 +37,15 @@ title: 地皮系统
 - 或使用 [家园系统](homes.md) 标记传送点  
 
 开放地皮时将在 QQ 群 **518445497** 通知。
+---
+<!-- gitbook-nav -->
+
+## 本章导航
+
+- 返回导览：[README](README.md)
+- 上一篇：[家园系统](homes.md)
+- 下一篇：[玩法总览](../gameplay/README.md)
+
+---
+
+客服 QQ 群：**518445497** · [赞助与消费条例](../legal/赞助条例.md)

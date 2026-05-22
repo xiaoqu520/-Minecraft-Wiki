@@ -2,6 +2,11 @@
 title: SVIP · 星航贵族
 ---
 
+<!-- gitbook-hint -->
+{% hint style="success" %}
+**快速入口**：`/cp buy svip_month wx`
+{% endhint %}
+
 # SVIP · 星航贵族
 
 **定位**：进阶赞助档，含 VIP 全部权益，并开放飞行、末影箱、赌场等。
@@ -44,3 +49,15 @@ title: SVIP · 星航贵族
 ---
 
 [赞助条例](../legal/赞助条例.md) · **QQ 群 518445497**
+---
+<!-- gitbook-nav -->
+
+## 本章导航
+
+- 返回导览：[会员档位](hubs/会员档位.md)
+- 上一篇：[VIP](vip.md)
+- 下一篇：[MVP](mvp.md)
+
+---
+
+客服 QQ 群：**518445497** · [赞助与消费条例](../legal/赞助条例.md)

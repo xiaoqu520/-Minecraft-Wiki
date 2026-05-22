@@ -2,6 +2,11 @@
 title: MVP · 至尊舰长
 ---
 
+<!-- gitbook-hint -->
+{% hint style="success" %}
+**快速入口**：`/cp buy mvp_month wx`
+{% endhint %}
+
 # MVP · 至尊舰长
 
 **定位**：最高赞助档，含 SVIP/VIP 全部权益，领地最大，商店折扣最优。
@@ -43,3 +48,15 @@ title: MVP · 至尊舰长
 ---
 
 [赞助条例](../legal/赞助条例.md) · **QQ 群 518445497**
+---
+<!-- gitbook-nav -->
+
+## 本章导航
+
+- 返回导览：[会员档位](hubs/会员档位.md)
+- 上一篇：[SVIP](svip.md)
+- 下一篇：[会员每日礼包](会员每日礼包.md)
+
+---
+
+客服 QQ 群：**518445497** · [赞助与消费条例](../legal/赞助条例.md)
